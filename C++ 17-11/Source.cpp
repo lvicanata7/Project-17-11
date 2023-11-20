@@ -3,13 +3,6 @@
 
 using namespace std;
 
-void func1() {
-
-}
-
-void func2() {
-	cout << "fun2\n";
-}
 
 int main() {
 	SetConsoleCP(1251);
