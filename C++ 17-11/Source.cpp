@@ -10,6 +10,8 @@ int main() {
 
 	cout << "Line1" << endl;
 	cout << "Line 2" << endl;
+	cout << "Line 3" << endl;
+	cout << "Line 4" << endl;
 	
 
 	return 0;
